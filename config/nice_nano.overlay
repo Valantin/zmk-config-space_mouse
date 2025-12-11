@@ -1,0 +1,8 @@
+/ {
+    aliases {
+        zmk_btn0 = <&gpio0 6>;
+        zmk_btn1 = <&gpio0 8>;
+        zmk_btn2 = <&gpio0 17>;
+        zmk_btn3 = <&gpio0 20>;
+    };
+};
